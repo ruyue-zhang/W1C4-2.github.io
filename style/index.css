@@ -14,10 +14,10 @@
   width: 100%;
   height: 7%;
   background-color: rgb(56, 55, 53);
+  color: white;
 }
 .head-p {
   font:  20px 'Microsoft yahei';
-  color: white;
 }
 .header .icon-text-display {
   display: flex;
@@ -37,7 +37,18 @@
   background-image: url(../img/banner.jpg);
   background-size: 100% 100%;
 }
-
+.dot {
+  position: fixed;
+  width: 100px;
+  height: 100px;
+  margin: 140px 0 0 320px;
+}
+.dot-color-black {
+  color: rgb(43, 40, 40);
+}
+.dot-color-white {
+  color: white;
+}
 .tags {
   width: 100%;
   height:15%;
