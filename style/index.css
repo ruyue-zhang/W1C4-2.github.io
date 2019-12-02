@@ -3,16 +3,18 @@
   padding: 0;
 }
 .main-page {
-  width:400px;
+  width:500px;
   height:1000px;
+  margin-left:auto;
+	margin-right:auto;
   background-color: white;
 }
 .header {
   position: _webkit_sticky;
   position: sticky;
-  top: 0;
   display: flex;
   justify-content: space-evenly;
+  top: 0;
   align-items: center;
 
   width: 100%;
@@ -45,7 +47,7 @@
   position: absolute;
   width: 100px;
   height: 100px;
-  margin: 140px 0 0 320px;
+  margin: 140px 0 0 410px;
 }
 .dot-color-black {
   color: rgb(43, 40, 40);
@@ -58,13 +60,14 @@
   height:15%;
 }
 table {
+  padding: 18px;
   height: 100%;
   width: 100%;
+
   text-align: center;
   font: 15px "Microsoft yahei";
+
   border-collapse: separate;
-  border:1px solid rgb(99, 95, 95);
-  padding: 18px;
 }
 td {
   border:1px solid rgb(228, 228, 224);
@@ -77,5 +80,32 @@ td:hover {
 .content {
   width: 100%;
   height: 61%;
-  background-color: rgb(214, 162, 58);
+  padding: 5px 0 5px 0;
 }
+.list {
+  display: flex;
+  justify-content: space-evenly;
+
+  width: 480px;
+  height: 120px;
+  margin: 10px 10px 10px 10px;
+  border-bottom: 0.1px solid rgb(226, 219, 219);
+}
+.list img {
+  margin-right: 20px;
+
+  width: 170px;
+  height: 100px;
+}
+.list p {
+  margin: 2px 0 2px 0;
+  color: rgb(117, 121, 124);
+}
+.person-number {
+  display: inline;
+}
+span {
+  margin-right: 10px;
+  color: rgb(236, 67, 67);
+}
+
