@@ -1,0 +1,29 @@
+@font-face {font-family: "iconfont";
+  src: url('//at.alicdn.com/t/font_1540036_hszi99ht5nn.eot?t=1575254187079'); /* IE9 */
+  src: url('//at.alicdn.com/t/font_1540036_hszi99ht5nn.eot?t=1575254187079#iefix') format('embedded-opentype'), /* IE6-IE8 */
+  url('data:application/x-font-woff2;charset=utf-8;base64,d09GMgABAAAAAANsAAsAAAAAB6wAAAMgAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAHEIGVgCDHAqCXII2ATYCJAMQCwoABCAFhG0HUxuzBhEVnEPIfhS4O7GRXz5eAqdxGdflHATPU171fqq6N52M4NMSOrlnSVxhn+BszjVNwke9G8rZJ4++kG6cXpo+BYDPczm9u0p8fstyGWvhXs+PelEcBxTo2IOkQAqIG8ZuojyI5RDAIo4cpGbthi0x0YB2AsjAfn26Yaas6JpiwURwlwzVyDxcmMZ04xIwl39ePlIkJhi4FKBr0961elL1Teq7fOV1vHSkBLLx3IA2ChSQA2iQvqXe7qgwloPCcn6jKQNMTAx4k/om912+44jyvWhNqKXvH88AcQMKfQAoETXqxGRYGutyRQEE3uUXYAC8kCEm4AZ6AxOAMWacbgaS7/GIT8ToJZZf6yVkSWvGIu9i2+606VzM6uulR2/Gr4iylxEtuOZGmU+S/8yl4R2W9p253bttxo7ynV2XMVFy9z7W3bttbt9udetWyzt3Rvu1WVq+Y0ZI10Xe0G6LZ+4sD2vtT2+xo0rzXqP8/hY/zHhojfT5Gv7Vp/O287+CYS/ft2+57Tn07VCUTKwbbC1fN/+g23M/fcqySr7JITsy4VQ98/SOjBOZJzJ28HTtOqnRrl0NEURShdSIF6H0+dqRFy4sj0qKWo4zPWo6jiDKvmCkn0QJQwFw1qr/SgEYXqMqgBpnrP893yGyTrv1XfwrfjMzDcADa/lO7nPWavpJ37GstexnyFqWaFcBbFrbSiz1CjXVUHBXRRYW8AtSEMSTMfShrQtBMAmNYVCBWChMUkjNyoELmxK4MakCi2zqjLYJZjgK0R4gi8kChAD2wsCPs1AEcJnUrMdwEcZnuAkQBYvWEjylDeUgU3pkVIIW9A8mQ7tDDkmD4hsOcVWcVHD2CzlMQWirJpu84o48Ro/wHjoRB45pg4uwGq4rgWea0Ug1ivi+rl3ZgypDW5JyZFSCFtA/YDK0O1pd0tz7bzjEVXENrSP8Qg5T/UBLRdOCvGr3VrRrOSW8hw4RBzimDbgIblxhjABf3mhGIxVjj4jvqaVyrq22ml+/PeEawAJsq8UQJVpcFH0ofqIZsTTkf/kvqt1OmPhmUPqPNMdRoZgk') format('woff2'),
+  url('//at.alicdn.com/t/font_1540036_hszi99ht5nn.woff?t=1575254187079') format('woff'),
+  url('//at.alicdn.com/t/font_1540036_hszi99ht5nn.ttf?t=1575254187079') format('truetype'), /* chrome, firefox, opera, Safari, Android, iOS 4.2+ */
+  url('//at.alicdn.com/t/font_1540036_hszi99ht5nn.svg?t=1575254187079#iconfont') format('svg'); /* iOS 4.1- */
+}
+
+.iconfont {
+  font-family: "iconfont" !important;
+  font-size: 20px;
+  color: white;
+  font-style: normal;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-gouwuche-copy:before {
+  content: "\e62d";
+}
+
+.icon-yuandianxiao:before {
+  content: "\e82f";
+}
+
+.icon-zuojiantou:before {
+  content: "\e625";
+}
